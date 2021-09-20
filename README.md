@@ -8,3 +8,5 @@ The original code is based on the master thesis of Nico Katuin at Delft Universi
 The MicrostructuralCharaterisation_v5.py code was originally written to compare  micrographs from three UD tapes from different suppliers. The fileloc variable can be used to specify which UD tape is analysed. In the original work of Katuin a powerful stitching functionality of a high resolution optical/confocal microscope was used. The obtained wide micrograph of a UD tape section was split into several width segments. This to increase the ease of manually defining the tape boundary. The amount of micrograph segments is not limited for the algorithm. Although, the width of the segments should be equal. 
 
 The function blocks and function code are provided with comments in the .py file and should be self explanatory. 
+
+The original release is accessible under <a href="https://zenodo.org/badge/latestdoi/403121015"><img src="https://zenodo.org/badge/403121015.svg" alt="DOI"></a>
