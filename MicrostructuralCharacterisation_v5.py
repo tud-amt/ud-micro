@@ -49,7 +49,7 @@ t_tape   = [0.225,0.197,0.150]        #Measured actual tape thickness
 t_tape   = t_tape[fileloc]
 
 
-T_ratio = 0.00055                     #Transformation between pixels and micrometers, equivalent to all three tapes. 
+T_ratio = 0.00055                     #Transformation between pixels and millimeters, equivalent to all three tapes. 
                                       #Depends on type of microscope and magnification used                
 
 #Windows folder names:
